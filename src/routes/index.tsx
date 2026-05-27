@@ -229,18 +229,19 @@ function Contact() {
 
         <div className="mt-16 grid gap-10 md:grid-cols-12">
           <div className="md:col-span-7">
-            <a href="mailto:hello@riathapa.dev" className="group inline-flex items-center gap-4 text-3xl font-bold md:text-5xl">
-              hello@riathapa.dev
+            <a href="mailto:riathapa.cs@gmail.com" className="group inline-flex items-center gap-4 text-3xl font-bold md:text-5xl">
+              riathapa.cs@gmail.com
               <ArrowUpRight className="h-10 w-10 transition-transform group-hover:translate-x-2 group-hover:-translate-y-2" />
             </a>
             <p className="mt-6 max-w-md text-background/70">
               Got an inventory system that's groaning under load, or a green-field Spring Boot project? I'd love to hear about it.
             </p>
           </div>
+          
           <div className="md:col-span-4 md:col-start-9 flex flex-col gap-3 font-mono text-sm">
-            <a href="#" className="flex items-center justify-between border-b border-background/30 py-3 hover:text-background"><span className="flex items-center gap-3"><Linkedin className="h-4 w-4" /> LinkedIn</span> <ArrowUpRight className="h-4 w-4" /></a>
-            <a href="#" className="flex items-center justify-between border-b border-background/30 py-3 hover:text-background"><span className="flex items-center gap-3"><Github className="h-4 w-4" /> GitHub</span> <ArrowUpRight className="h-4 w-4" /></a>
-            <a href="mailto:hello@riathapa.dev" className="flex items-center justify-between border-b border-background/30 py-3 hover:text-background"><span className="flex items-center gap-3"><Mail className="h-4 w-4" /> Email</span> <ArrowUpRight className="h-4 w-4" /></a>
+            <a href="https://www.linkedin.com/in/riathapa/" className="flex items-center justify-between border-b border-background/30 py-3 hover:text-background"><span className="flex items-center gap-3"><Linkedin className="h-4 w-4" /> LinkedIn</span> <ArrowUpRight className="h-4 w-4" /></a>
+            <a href="https://github.com/know-riaa" className="flex items-center justify-between border-b border-background/30 py-3 hover:text-background"><span className="flex items-center gap-3"><Github className="h-4 w-4" /> GitHub</span> <ArrowUpRight className="h-4 w-4" /></a>
+            <a href="mailto:riathapa.cs@gmail.com" className="flex items-center justify-between border-b border-background/30 py-3 hover:text-background"><span className="flex items-center gap-3"><Mail className="h-4 w-4" /> Email</span> <ArrowUpRight className="h-4 w-4" /></a>
           </div>
         </div>
       </div>
