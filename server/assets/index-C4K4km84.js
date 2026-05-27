@@ -1,4 +1,4 @@
-import { r as reactExports, T as jsxRuntimeExports } from "./server-DW3or6HB.js";
+import { r as reactExports, T as jsxRuntimeExports } from "./server-BKv9Kaly.js";
 import "node:async_hooks";
 import "node:stream/web";
 import "node:stream";
@@ -360,14 +360,14 @@ function Contact() {
       ] }),
       /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "mt-16 grid gap-10 md:grid-cols-12", children: [
         /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "md:col-span-7", children: [
-          /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "mailto:hello@riathapa.dev", className: "group inline-flex items-center gap-4 text-3xl font-bold md:text-5xl", children: [
-            "hello@riathapa.dev",
+          /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "mailto:riathapa.cs@gmail.com", className: "group inline-flex items-center gap-4 text-3xl font-bold md:text-5xl", children: [
+            "riathapa.cs@gmail.com",
             /* @__PURE__ */ jsxRuntimeExports.jsx(ArrowUpRight, { className: "h-10 w-10 transition-transform group-hover:translate-x-2 group-hover:-translate-y-2" })
           ] }),
           /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "mt-6 max-w-md text-background/70", children: "Got an inventory system that's groaning under load, or a green-field Spring Boot project? I'd love to hear about it." })
         ] }),
         /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "md:col-span-4 md:col-start-9 flex flex-col gap-3 font-mono text-sm", children: [
-          /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "#", className: "flex items-center justify-between border-b border-background/30 py-3 hover:text-background", children: [
+          /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "https://www.linkedin.com/in/riathapa/", className: "flex items-center justify-between border-b border-background/30 py-3 hover:text-background", children: [
             /* @__PURE__ */ jsxRuntimeExports.jsxs("span", { className: "flex items-center gap-3", children: [
               /* @__PURE__ */ jsxRuntimeExports.jsx(Linkedin, { className: "h-4 w-4" }),
               " LinkedIn"
@@ -375,7 +375,7 @@ function Contact() {
             " ",
             /* @__PURE__ */ jsxRuntimeExports.jsx(ArrowUpRight, { className: "h-4 w-4" })
           ] }),
-          /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "#", className: "flex items-center justify-between border-b border-background/30 py-3 hover:text-background", children: [
+          /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "https://github.com/know-riaa", className: "flex items-center justify-between border-b border-background/30 py-3 hover:text-background", children: [
             /* @__PURE__ */ jsxRuntimeExports.jsxs("span", { className: "flex items-center gap-3", children: [
               /* @__PURE__ */ jsxRuntimeExports.jsx(Github, { className: "h-4 w-4" }),
               " GitHub"
@@ -383,7 +383,7 @@ function Contact() {
             " ",
             /* @__PURE__ */ jsxRuntimeExports.jsx(ArrowUpRight, { className: "h-4 w-4" })
           ] }),
-          /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "mailto:hello@riathapa.dev", className: "flex items-center justify-between border-b border-background/30 py-3 hover:text-background", children: [
+          /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "mailto:riathapa.cs@gmail.com", className: "flex items-center justify-between border-b border-background/30 py-3 hover:text-background", children: [
             /* @__PURE__ */ jsxRuntimeExports.jsxs("span", { className: "flex items-center gap-3", children: [
               /* @__PURE__ */ jsxRuntimeExports.jsx(Mail, { className: "h-4 w-4" }),
               " Email"

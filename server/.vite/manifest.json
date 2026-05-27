@@ -9,8 +9,8 @@
     "file": "assets/styles-BtZOXbgC.css",
     "src": "/home/runner/work/ria-ink-minimal/ria-ink-minimal/src/styles.css"
   },
-  "_server-DW3or6HB.js": {
-    "file": "assets/server-DW3or6HB.js",
+  "_server-BKv9Kaly.js": {
+    "file": "assets/server-BKv9Kaly.js",
     "name": "server",
     "isDynamicEntry": true,
     "dynamicImports": [
@@ -20,20 +20,20 @@
       "%23tanstack-start-plugin-adapters"
     ]
   },
-  "_worker-entry-bjyfGmeG.js": {
-    "file": "assets/worker-entry-bjyfGmeG.js",
+  "_worker-entry-CVOmf77j.js": {
+    "file": "assets/worker-entry-CVOmf77j.js",
     "name": "worker-entry",
     "dynamicImports": [
-      "_server-DW3or6HB.js"
+      "_server-BKv9Kaly.js"
     ]
   },
   "src/router.tsx": {
-    "file": "assets/router-Bn17fAE-.js",
+    "file": "assets/router-Du4lOEDc.js",
     "name": "router",
     "src": "src/router.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_server-DW3or6HB.js"
+      "_server-BKv9Kaly.js"
     ],
     "dynamicImports": [
       "src/routes/index.tsx?tsr-split=component"
@@ -43,25 +43,25 @@
     ]
   },
   "src/routes/index.tsx?tsr-split=component": {
-    "file": "assets/index-RlvQSHzC.js",
+    "file": "assets/index-C4K4km84.js",
     "name": "index",
     "src": "src/routes/index.tsx?tsr-split=component",
     "isDynamicEntry": true,
     "imports": [
-      "_server-DW3or6HB.js"
+      "_server-BKv9Kaly.js"
     ]
   },
   "src/start.ts": {
-    "file": "assets/start-BEElHkno.js",
+    "file": "assets/start-EEyCoJn0.js",
     "name": "start",
     "src": "src/start.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_worker-entry-bjyfGmeG.js"
+      "_worker-entry-CVOmf77j.js"
     ]
   },
   "tanstack-start-manifest:v": {
-    "file": "assets/_tanstack-start-manifest_v-DpkmQ6PV.js",
+    "file": "assets/_tanstack-start-manifest_v-BDdiN9zS.js",
     "name": "_tanstack-start-manifest_v",
     "src": "tanstack-start-manifest:v",
     "isDynamicEntry": true
@@ -72,7 +72,7 @@
     "src": "virtual:cloudflare/worker-entry",
     "isEntry": true,
     "imports": [
-      "_worker-entry-bjyfGmeG.js"
+      "_worker-entry-CVOmf77j.js"
     ]
   }
 }
